@@ -1,0 +1,1 @@
+This query set exhibits a large performance gap between STP and Z3 (on either side).
